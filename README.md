@@ -4,6 +4,9 @@ This is the Jupyter notebook behind TapCap's Blog post on who needed Mortgage Fo
 
 https://blog.tapcap.co/who-needed-mortgage-forbearance
 
+In case GitHub's preview of the notebook doesn't load, you can view the notebook here with nbviewer:
+https://nbviewer.jupyter.org/github/ZachariahRosenberg/2020-Mortgage-Forbearance-Analysis/blob/main/forbearance_analysis.ipynb
+
 ----
 
 In mid March, in an effort to curb the (projected) impending wave of defaults, the Agencies announced [mortgage forbearance programs](https://hello.tapcap.co/blog#page-block-0euyltqt2z28). These programs would allow borrowers to, at zero cost, defer their mortgage payments for up to 3 months in the event that their debt service coverage fell below 1.0 (monthly current net income is below monthly loan payment). 
