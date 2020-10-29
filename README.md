@@ -4,6 +4,8 @@ This is the Jupyter notebook behind TapCap's Blog post on who needed Mortgage Fo
 
 https://blog.tapcap.co/who-needed-mortgage-forbearance
 
+----
+
 In mid March, in an effort to curb the (projected) impending wave of defaults, the Agencies announced [mortgage forbearance programs](https://hello.tapcap.co/blog#page-block-0euyltqt2z28). These programs would allow borrowers to, at zero cost, defer their mortgage payments for up to 3 months in the event that their debt service coverage fell below 1.0 (monthly current net income is below monthly loan payment). 
 
 We’re now in July - [NMHC’s rent tracker](https://www.nmhc.org/research-insight/nmhc-rent-payment-tracker/) has remained in the mid 90’s%, multifamily seems to be doing okay. However I was curious, did anyone actually require mortgage forbearance? If so, who and what happened?
